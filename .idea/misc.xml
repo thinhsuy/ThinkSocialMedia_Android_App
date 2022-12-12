@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.185" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/drawable/edit_text_border.xml" value="0.185" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/drawable/ic_launcher_background.xml" value="0.185" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/activity_sign_up.xml" value="0.17391304347826086" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/fragment_newfeeds.xml" value="0.16394927536231885" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/fragment_posting.xml" value="0.16394927536231885" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/header_navigation_drawer.xml" value="0.16394927536231885" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/layout_home_post.xml" value="0.17527173913043478" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/layout_nativigation_header.xml" value="0.16394927536231885" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/layout_template_nativigation.xml" value="0.16394927536231885" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/layout_toolbar_test.xml" value="0.16394927536231885" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/toolbar.xml" value="0.12363387978142076" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/layout/toolbar_home.xml" value="0.16394927536231885" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/menu/drawer_test.xml" value="0.25" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/menu/header_navigation_drawer.xml" value="0.1875" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/menu/navigation_drawer.xml" value="0.25" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio(Application)/Projects/ThinkSocial/app/src/main/res/menu/top_app_bar.xml" value="0.24895833333333334" />
+        <entry key="..\:/Sequence/Compilers/AndroidStudio_(Application)/Projects/ThinkSocial/app/src/main/res/layout/fragment_posting.xml" value="0.15353260869565216" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

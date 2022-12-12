@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navNews"
+            android:title="New Feeds"/>
+        <item
+            android:id="@+id/navPost"
+            android:title="Post to Timeline"
+            android:checked="true" />
+        <item
+            android:id="@+id/navMess"
+            android:title="Messager" />
+    </group>
+
+    <item android:title="Account Actions">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/navChangePass"
+                    android:title="Change Password" />
+                <item
+                    android:id="@+id/navLogOut"
+                    android:title="Log Out" />
+            </group>
+        </menu>
+    </item>
+</menu>
